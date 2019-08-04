@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="model-constructor-template" type="PLAIN_TEXT" />
+      <mapping pattern="model-definition-template" type="PLAIN_TEXT" />
       <mapping ext="pegjs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
