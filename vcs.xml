@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/ThisIsNoZaku/choose.js.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Neone-character-creator/sw-edge-of-the-empire.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Damie\IdeaProjects" />
